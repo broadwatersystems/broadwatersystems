@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/broadwatersystems/.github/main/profile/bsg-logo.png" alt="Broadwater Systems Group" width="550">
+  <img src="BroadwaterSystemsGroup_Final_Logo.png" alt="Broadwater Systems Group" width="550">
 </p>
 
 <p align="center">
